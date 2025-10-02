@@ -3,8 +3,8 @@ from docling.document_converter import DocumentConverter
 
 # Folders
 input_folder = "doc_parser/Data"
-output_folder = "results"
-
+output_folder = "results_2"
+## doc_parser/DockLingParser/parserCode.py
 # Create output folder if it doesn't exist
 os.makedirs(output_folder, exist_ok=True)
 
