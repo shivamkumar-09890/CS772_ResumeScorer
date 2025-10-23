@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Upload Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #f4f6f8;
+    }
+    .container {
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      text-align: center;
+      width: 400px;
+    }
+    input[type="file"] {
+      margin: 20px 0;
+    }
+    button {
+      background: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 18px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    #result {
+      margin-top: 20px;
+      font-weight: bold;
+      color: green;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Upload Your Resume</h2>
+    <form id="resumeForm">
+      <input type="file" id="resume" name="file" accept=".pdf,.doc,.docx" required>
+      <br>
+      <button type="submit">Upload</button>
+    </form>
+    <div id="result"></div>
+  </div>
+
+  <script>
+    document.getElementById("resumeForm").addEventListener("submit", async function(e) {
+      e.preventDefault();
+      const fileInput = document.getElementById("resume");
+      const formData = new FormData();
+      formData.append("file", fileInput.files[0]);
+
+      try {
+        // Use a relative path to match your backend endpoint
+        const response = await fetch("/upload/", {
+          method: "POST",
+          body: formData
+        });
+
+        if (!response.ok) {
+          throw new Error("Server error");
+        }
+
+        const data = await response.json();
+        document.getElementById("result").innerText = "✅ " + data.message;
+      } catch (error) {
+        console.error(error);
+        document.getElementById("result").innerText = "❌ Upload failed!";
+      }
+    });
+  </script>
+</body>
+</html>
