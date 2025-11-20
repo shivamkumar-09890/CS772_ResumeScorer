@@ -1,0 +1,374 @@
+{
+    "UNASSIGNED": {
+        "text": [],
+        "bullets": [],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    },
+    "ANMOL SARAF ELECTRICAL ENGINEERING INDIAN INSTITUTE OF": {
+        "text": [
+            "200070007",
+            "B.Tech.",
+            "Gender:",
+            "Male",
+            "DOB:",
+            "11/05/2002"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "TECHNOLOGY BOMBAY": {
+        "text": [
+            "Pursuing Minor in Computer Science and Engineering & Honors in Electrical Engineering"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Examination",
+                    "University",
+                    "Institute",
+                    "Year",
+                    "CPI/%"
+                ],
+                [
+                    "Graduation",
+                    "IIT Bombay",
+                    "IIT Bombay",
+                    "2024"
+                ],
+                [
+                    "Intermediate",
+                    "CBSE",
+                    "Sanskartirth Gyanpeeth",
+                    "2020",
+                    "94.00%"
+                ],
+                [
+                    "Matriculation",
+                    "CBSE",
+                    "S.D. Jain Modern School",
+                    "2018",
+                    "97.00%"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "SCHOLASTIC ACHIEVEMENTS": {
+        "text": [
+            "—"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "* Secured All India Rank 92 in JEE Advanced among 0.15 million candidates",
+                    "(2020)"
+                ],
+                [
+                    "* Achieved All India Rank 86 in JEE Main out of 1 million+ aspirants",
+                    "(2020)"
+                ],
+                [
+                    "+ Awarded the Chanakya Fellowship of %120,000 by the Department of Science and Technology, Gol",
+                    "(2023)"
+                ],
+                [
+                    "* Felicitated with the Best Project Award among 60+ teams in the Electronics Design Lab",
+                    "(2023)"
+                ],
+                [
+                    "* Recipient of the KVPY Fellowship granted by the Department of Science and Technology, Gol",
+                    "(2018)"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "HARVARD UNIVERSITY | RESEARCH INTERNSHIP": {
+        "text": [
+            "Guide: Prof Vijay Janapa Reddi | Edge Computing Lab"
+        ],
+        "bullets": [
+            "Collaborated with a 13-member team to generate domain-specific hardware, employing the computer architecture simulator AstraSim integrated with cutting-edge reinforcement learning and machine learning-based algorithms",
+            "Contributed on the OpenAI Gymnasium for computer architecture, ArchGym presented in ISCA'23 conference",
+            "¢ Wrapped AstraSim environment in Google's DeepMind envlogger interface to generate 15,000+ hardware designs",
+            "Utilized models like NODE and XGBoost on an ML proxy pipeline to enhance the performance of the simulator"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "AMAZON DEVELOPMENT CENTRE | SOFTWARE DEVELOPMENT INTERNSHIP": {
+        "text": [
+            "(May'23 -Jul'23)",
+            "+",
+            "Improved bugfix",
+            "turnaround time,",
+            "by customizing",
+            "current automated",
+            "workflows to",
+            "include the",
+            "new isolated",
+            "state"
+        ],
+        "bullets": [
+            "« Implemented a new isolated state in Java, for identifying and handling error-ridden Aurora Storage data instances",
+            "Created automated tests in JUnit and TestNG to validate data safety and read/write operations on these instances"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "IOT ENABLED ENERGY SHARING IN CONNECTED BUILDINGS | CHANAKYA FELLOWSHIP": {
+        "text": [
+            "Guide: Prof Anupama Kowli | Department of Electrical Engineering"
+        ],
+        "bullets": [
+            "Developing a framework in a team of 3 to connect net-zero energy buildings using IoT devices to improve efficiency",
+            "Achieved an accuracy of 78% on predicting appliances present in a household, through deep neural networks on sparse energy consumption data of 15 minute intervals for a duration of 2.5 years of less than 100 households",
+            "Developed a web scraping tool in Python which increased the accuracy by 15%, to extract daily temperatures",
+            "¢ Exploring cybersecurity methods such as data scrambling to hide information and enable sharing in IoT devices"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "TRANSFORMING ULTRASOUND TO CT SCANS FOR BREAST CANCER DIAGNOSIS": {
+        "text": [
+            "Guide: Prof Amit Sethi | Medical Deep Learning and Artificial Intelligence Lab, IIT Bombay",
+            "*",
+            "Utilized",
+            "CycleGANs",
+            "&",
+            "pix2pix to",
+            "generate",
+            "CT",
+            "scans from",
+            "simulated ultrasound",
+            "images, achieving",
+            "(Apr'23 -Aug'23)",
+            "an",
+            "MSE",
+            "of",
+            "0.008"
+        ],
+        "bullets": [
+            "¢ Preproccessed CTs to SoS images to simulate ultrasound through wave interference equations using Stride module",
+            "¢ Applied Fourier Domain Adaptation to enhance the quality of simulated images with authentic ultrasound images"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "PUBLICATIONS": {
+        "text": [],
+        "bullets": [
+            "¢ Sahar Almahfouz Nasser, Anmol Saraf, et al. \"Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis\", Ultrasonics, 2023"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "TEAM RAKSHAK | SOFTWARE SUBSYSTEM": {
+        "text": [
+            "(Submitted for Review)",
+            "(Aug'21 -Jul'23)",
+            "Team aim is to create Unmanned Aerial Vehicles (UAVs) to support search & rescue operations and to participate in Student Unmanned Aerial Systems (SUAS) competition which is held every year globally in the USA"
+        ],
+        "bullets": [
+            "Performed object classification with an accuracy of 94% using transfer learning for ResNet and VGG architecture",
+            "Augmented images using OpenCV to generate 0.5 million sample images to improve model accuracy by 20%",
+            "Incorporated Principal Component Analysis to extract the angle of tilt between the drone and the object's axis"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "MORPHING ATTACKS AND DEFENCE SYSTEMS | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof Sunita Sarawagi | Department of Computer Science & Engineering",
+            "(Jan'23 -May'23)",
+            "—",
+            "(Mar'23 -Present)",
+            "—",
+            "(Jun'23 -Aug'23)",
+            "(Jan’23 - May’23)"
+        ],
+        "bullets": [
+            "Achieved a 200x better MSE loss on unknown faces, by utilizing a discriminator trained on morphed face images",
+            "Attained 80% success rate, on attacking SOTA Face Recognition models, OpenFace & FaceNet512, by morphing two face images by interpolating their semantic and stochastic embeddings produced by Diffusion Autoencoders"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "PARALLEL SAT SOLVER | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof Prabhu Ramachandran | Department of Aerospace Engineering"
+        ],
+        "bullets": [
+            "Achieved a 2x speedup for up to 64-variable SAT equations by using multi-threading in a binary tree-like structure",
+            "Implemented the DPLL algorithm using the mpi4py library by setting dataflow between parent and child threads"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "CONTAINMENT CONTROL OF HYBRID MULTI-AGENT SYSTEMS | RESEARCH PROJECT": {
+        "text": [
+            "Guide: Prof Dwaipayan Mukherjee | Department of Electrical Engineering"
+        ],
+        "bullets": [
+            "Simulated various heterogeneous dynamic leaders and followers on Simulink using passive feedback control",
+            "Explored advanced graph theory, non-linear systems, Barbalat's theorem and La Salle invariance principle",
+            "Performed literature survey on Lyapunov stability for autonomous systems including Barbashin-Krasovski theorem"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "REFLOW OVEN FOR SOLDERING SMD COMPONENTS | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof Joseph John & Prof Gaurav Kasbekar | Department of Electrical Engineering"
+        ],
+        "bullets": [
+            "Achieved a six-fold cost reduction for our product over industrial grade by optimal use of in-house components",
+            "Designed a printed circuit board to host the power supply, temperature sensor, cooling fans and microcontroller",
+            "Implemented PID control algorithm to follow the reflow soldering thermal profile on an AT89C5131 microcontroller"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "VALET PARKING ROBOT | COURSE PROJECT": {
+        "text": [
+            "(Jan’23 - May’23)",
+            "Guide: Prof Kavi Arya & Prof Paritosh Pandya | Department of Computer Science & Engineering"
+        ],
+        "bullets": [
+            "Led a team of 3 to program a bot in Heptagon, a synchronous dataflow language, to traverse dynamic test-tracks",
+            "Implemented obstacle-avoidance algorithm by interfacing infrared sensors on an ATmega328P development board"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "MONUSEG CHALLENGE | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof Amit Sethi | Department of Electrical Engineering"
+        ],
+        "bullets": [
+            "Achieved a dice loss of 0.147, by implementing a UNet for semantic segmentation of multi-organ tissue images",
+            "Applied Watershed segmentation to the predicted probability maps from the model to distinguish individual nuclei"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "COMPARING VARIOUS MODELS ON PIMA INDIAN DIABETES DATASET | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof Abir De | Department of Computer Science & Engineering"
+        ],
+        "bullets": [
+            "Performed exploratory data analysis on the dataset to analyze it visually and find emerging patterns and anomalies",
+            "Built Support Vector Classifier, K-Nearest Neighbours, and deep neural networks from scratch using only NumPy",
+            "Performed comparative analysis for various models through BCE error to obtain minimum error of 0.27 for SVC"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "MULTICYCLE PROCESSOR DESIGN | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof Virendra Singh | Department of Electrical Engineering"
+        ],
+        "bullets": [
+            "Designed a multicycle datapath for a 16-bit RISC ISA microprocessor for executing 17 instructions using VHDL",
+            "Modeled an FSM controller using behavioral modelling and performed RTL simulations on the datapath and FSM"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "LANGUAGES PYTHON PACKAGES": {
+        "text": [
+            "C++, C, Embedded C, Python, Java, VHDL, Verilog, Assembly (x86), MATLAB, Heptagon",
+            "Keras, Tensorflow, OpenCV, NumPy, Pandas, Sklearn, OS, Pytorch, Matplotlib, OpenAI Gym"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "POSITIONS OF RESPONSIBILITY": {
+        "text": [
+            "Software Vice Head | Team Rakshak, IIT Bombay (Jul’22 - Jul’23)",
+            "D-AMP Mentor | Student Mentorship Program, IIT Bombay (Jun’23 - Present)"
+        ],
+        "bullets": [
+            "Participated in a team of 8 in the SUAS competition in the USA, resulting in 30 th place ranked among 80 teams",
+            "Spearheaded a 2-tier , 8-member software subsystem while facilitating streamlined information transfer between subdivisions. Interviewed, recruited and mentored 5 junior design engineers out of a pool of 50+ UG applicants",
+            "Selected into a team of 54 members out of 140+ candidates on the basis of SOPs, interviews and peer reviews to mentor 10 sophomores and help them manage academic and co-curricular pursuits and also develop self-sufficiency",
+            "Received 2 days of training on essential mentorship skills from a certified CBT-REBT therapist and trainer"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "TEACHING ASSISTANT": {
+        "text": [],
+        "bullets": [
+            "•",
+            "CS101: Introduction to Programming | Prof Ajit Rajwade (Nov'22 - Feb'23) Mentored 14 students through software labs to introduce freshmen to C++ as their first programming language",
+            "MA108: Differential Equations | Prof Santanu Dey (May'22 - Jul'22) Responsible for mentoring 42 students, discussing weekly tutorial assignments and answering their doubts"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "ELECTRICAL ENGG": {
+        "text": [
+            "Speech Processing*, Communication Networks, Spin-Based Computing*, Image Processing, Probability and Random Processes, Markov Chains and Queuing Systems"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "COMPUTER SCIENCE": {
+        "text": [
+            "Data Structures & Algorithms, Design & Analysis of Algorithms*, Embedded Systems,",
+            "Principles of Data and System Security, Parallel Scientific Computing and Visualization"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "MACHINE LEARNING": {
+        "text": [
+            "Programming in Data Science, Introduction to Machine Learning, Advanced Machine Learning, Foundations of Intelligent and Learning Agents*"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "EXTRA CURRICULAR ACTIVITIES": {
+        "text": [
+            "(To be completed by Nov’23)",
+            "(Jan’22 - Apr’22)",
+            "(Jan’22 - Apr’22)",
+            "(Aug’22 - Dec’22)",
+            "(Jan’23 - May’23)",
+            "(May’22 - Dec’22)"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "•  Awarded |4,000 for placing 2 nd  in the Trust Lab CTF competition organized for 50+ participants",
+                    "(2023)"
+                ],
+                [
+                    "•  Participated in various intra-department, inter-department and inter-college chess competitions",
+                    "(2023)"
+                ],
+                [
+                    "•  1 st  position in National Cadet Corps (NCC) debate competition",
+                    "(2020)"
+                ],
+                [
+                    "•  Represented Botswana as a lead pianist in a concert in Zambia Music High School Camp",
+                    "(2014)"
+                ]
+            ]
+        ],
+        "pictures": []
+    }
+}

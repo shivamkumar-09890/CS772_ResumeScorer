@@ -1,0 +1,188 @@
+{
+    "RAMAN DHINGRA": {
+        "text": [
+            "Major: Aerospace Engineering | Minor: Mechanical Engineering"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "ACADEMIC QUALIFICATIONS": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Year",
+                    "Degree/Certificate",
+                    "Institute",
+                    "CPI/%"
+                ],
+                [
+                    "2021 - Present",
+                    "B.Tech",
+                    "Indian Institute of Technology Kanpur",
+                    "8.0/10"
+                ],
+                [
+                    "2021",
+                    "CBSE(XII)",
+                    "Swami Vivekananda Lotus Valley Public School",
+                    "97.2%"
+                ],
+                [
+                    "2019",
+                    "CBSE(X)",
+                    "SpringFields Public School, Yamunanagar",
+                    "96.8%"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "SCHOLASTIC ACHIEVEMENTS": {
+        "text": [],
+        "bullets": [
+            "Achieved the Overall Winner title nationwide in Class-I Electric Vehicle category at Formula Bharat 2023",
+            "Secured All India Rank 3578 in JEE Advanced 2021 among the 1.5 Lakh shortlisted candidates",
+            "State Topper (Top 1%) in Indian Olympiad Qualifier in Astronomy 2020-2021 Part I (XII level) examination"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "◦ POWERED ROTOR SIMULATION | BELL FLIGHT, TEXTRON INDIA PVT. LTD., BANGALORE": {
+        "text": [
+            "2 (May’24 - Jul’24 )"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Objective",
+                    "• Simulate and analyze the wake of helicopter blades using Computational Fluid Dynamics (CFD)"
+                ],
+                [
+                    "Approach",
+                    "•  Validated CFD simulations using NASA’s 1981 Caradonna and Tung NACA0012 twin-blade hover data •  Improved simulation convergence by testing pseudo-transient time scales factors of 0.01, 0.1, 5, and 10 •  Developed main rotor mesh with 20M elements in Pointwise, ensuring area ratio ≤0.4 and skewness ≤0.9 •  Applied periodic boundary conditions to simulate 1/5 th  of the domain, reducing computational expense"
+                ],
+                [
+                    "Result",
+                    "•  Achieved residuals below 1e-4 using a time scale factor of 10 on the NACA0012 twin-blade geometry •  Validated CFD simulations by achieving pressure coefficient (Cp) plots within a 5-10% error margin •  Displayed vortex trajectory plots within a 3-5% error range up to 200 °  vortex age on NACA0012 geometry"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "◦ MARKOWITZ PORTFOLIO MANAGEMENT | SELF PROJECT": {
+        "text": [
+            "§ (Jul’24-Aug’24 )"
+        ],
+        "bullets": [
+            "Applied Modern Portfolio Theory to comprehensively assess risk and return for a sample of Indian stocks using Python",
+            "Analyzed extensive historical stock data to assess returns, risks, and guide informed investment decisions effectively",
+            "Constructed a diversified portfolio on Efficient Frontier, optimizing stock weights to maximize the Sharpe ratio effectively",
+            "Determined optimal stock allocations to maximize potential returns for a given risk level, ensuring a balanced portfolio",
+            "Measured risk and reward using metrics like Sortino Ratio (1.7), Treynor's Ratio (9.2), CAGR (21%), and Beta (0.76)"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "◦ STOCK PRICE PREDICTION | SELF PROJECT": {
+        "text": [
+            "§ (Mar’24-May’24 )"
+        ],
+        "bullets": [
+            "Predicted the stock data using sequential data modeling algorithms like RNN , LSTM , GRU, and Transformers",
+            "Leveraged the strengths of each algorithm to enhance the robustness of the model for time series forecasting",
+            "Integrated time embedding technique using the Time2Vec to understand temporal patterns in stock market data",
+            "Achieved a mean squared error of 0.0021 on a test dataset and extended the model to predict stock prices for multiple days"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "◦ FORMULA 1 RACE OUTCOME PREDICTION USING ML | SELF PROJECT": {
+        "text": [
+            "§ (Aug’23-Oct’23 )"
+        ],
+        "bullets": [
+            "Analyzed 70 years of race data, driver statistics and 5 years of weather data to predict Formula 1 outcomes using Pandas",
+            "Applied data preprocessing techniques, such as handling missing values, feature scaling, and one-hot encoding",
+            "Conducted EDA with 20+ visualizations using Matplotlib and Plotly to identify key trends, distributions and correlations",
+            "Developed predictive models using Random Forest and XGBoost with scikit-learn, focusing on optimizing model accuracy",
+            "Successfully predicted race outcomes with R 2 of 0.85, validating model effectiveness on large-scale sports datasets"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "TECHNICAL SKILLS": {
+        "text": [],
+        "bullets": [
+            "Programming Languages: C, C++, MATLAB, Python, SQL, LATEX",
+            "Softwares & Libraries: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, TensorFlow, Tableau, Power BI"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "◦ TECHNICAL HEAD | IITK MOTORSPORTS": {
+        "text": [
+            "(Mar’23 - Mar’24 )"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Leadership",
+                    "•  Led a 3-tier team of 60+ team members to work towards design, manufacturing and testing of FSEV •  Led brainstorming sessions to improve functioning of the team on both individual and group levels"
+                ],
+                [
+                    "Management",
+                    "•  Developed and implemented a timeline, managing workflows across 9 subsystems to meet team targets •  Ensured the timely completion and submission of various technical documents for FB 2024 2 •  Led the manufacturing and design workflows concurrently to enhance the onboarding of new recruits"
+                ],
+                [
+                    "Impact",
+                    "•  Developed and launced institute’s inaugural Formula Student Electric Vehicle within a 9-month timeline •  Secured sponsorship of over INR 48 lakhs, an increase of approximately 220% from the previous season"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "RELEVANT COURSES": {
+        "text": [
+            "* Ongoing"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Mathematical Engg. and Physics using Machine Learning*",
+                    "Real Analysis",
+                    "Complex Analysis"
+                ],
+                [
+                    "Computational Fluid Dynamics and Heat Transfer*",
+                    "Fundamentals of Computing",
+                    "Turbulence"
+                ],
+                [
+                    "Linear Algebra and Differential Equations",
+                    "Flight Mechanics",
+                    "Electric Vehicles"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "EXTRA-CURRICULAR ACTIVITIES": {
+        "text": [
+            "i"
+        ],
+        "bullets": [
+            "Contributed as a member of the Photography club team for the Inter IIT Cultural Meet'23 in Street Photography",
+            "Actively participate in a diverse range of sports activities including Basketball, Badminton, and Swimming"
+        ],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    }
+}

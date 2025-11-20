@@ -1,0 +1,206 @@
+{
+    "UNASSIGNED": {
+        "text": [
+            "R surabhiofficial2@gmail.com | \u00af surabhi-sharma-695219193"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "SURABHI SHARMA": {
+        "text": [
+            "M.Tech Final Year",
+            "Department of Chemical Engineering"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "ACADEMIC QUALIFICATIONS": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Year",
+                    "Degree/Certificate",
+                    "Institute/School",
+                    "CPI/%"
+                ],
+                [
+                    "2023 - Present",
+                    "M.Tech Chemical Engineering",
+                    "Indian Institute of Technology Kanpur",
+                    "7/10"
+                ],
+                [
+                    "2018 - 2022",
+                    "B.Tech Chemical Engineering",
+                    "Durgapur Institute of Advanced Technology and Management WB",
+                    "9.03/10"
+                ],
+                [
+                    "2015 - 2018",
+                    "B.Sc(H) Botany",
+                    "Banwarilal Bhalotia College WB",
+                    "57.5%"
+                ],
+                [
+                    "2015",
+                    "WBCHSE(XII)",
+                    "Arya Kanya Uchcha Vidyalaya WB",
+                    "77.6%"
+                ],
+                [
+                    "2013",
+                    "WBBSE(X)",
+                    "Jamuria Balika Vidyalaya WB",
+                    "71.42%"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "SCHOLASTIC ACHIEVEMENTS": {
+        "text": [],
+        "bullets": [
+            "Qualified GATE 2023 Chemical Engineering paper out of 16k+ students conducted by Indian Institute of Technology Kanpur",
+            "Achieved top rank as the highest performing student in class XII board examinations at Arya Kanya Uchcha Vidyalaya"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "MICRONUTRIENT DETECTION IN SOIL : A MACHINE LEARNING APPROACH WITH UV-VIS-NIR SPECTROSCOPY": {
+        "text": [
+            "Thesis Supervisor: Prof. Jayant K Singh Department of Chemical Engineering IIT Kanpur (March\u201924-Present)"
+        ],
+        "bullets": [
+            "To develop a soil health detection device that involves integration of spectroscopy principles and sensor technology to accurately analyze the soil micronutrients, combined with ML approach to enhance precision and reliability in nutrient analysis",
+            "Collected LEDs and soil elements concentration data and applied RF, SVM, XGBoost etc. to predict the concentration of the soil nutrients and improve precision, performance, ensuring accurate predictions when compared with the experimental data",
+            "Attained the R 2 scores of 0.7 - 0.9 for various nutrients using the ensemble machine learning techniques",
+            "The motivation behind this project is to empower Indian farmers by offering a non-destructive approach to the soil analysis, ultimately contributing to India's journey toward self-reliance and fostering the sustainable agricultural prosperity"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "MXENE SYNTHESIS FROM MO2GA2C MAX PHASE FOR CO2 CAPTURE": {
+        "text": [
+            "Mentor: Prof. Jayant K Singh Department of Chemical Engineering IIT Kanpur (Dec\u201923-Feb\u201924 )"
+        ],
+        "bullets": [
+            "Performed experiments for synthesizing MXene from the MAX Phase( Mo2Ga2C) by etching technique",
+            "The surface morphology of the synthesized MXene was thoroughly examined using scanning electron microscopy(SEM)"
+        ],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    },
+    "MICROKINETIC MODELING OF METHANE PYROLYSIS, CHEMICAL REACTION ENGINEERING (CHE631)": {
+        "text": [
+            "Instructor Name: Dr. Vishal Agarwal Department of Chemical Engineering IIT Kanpur (Oct\u201923 )"
+        ],
+        "bullets": [
+            "Performed Microkinetic Modeling to determine rate limiting step through Sensitivity Analysis for Methane Pyrolysis"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "BANGALORE HOUSE PRICE PREDICTION | RIDGE REGRESSION W": {
+        "text": [
+            "(March\u201924 )",
+            "\u2022",
+            "Achieved the R",
+            "2"
+        ],
+        "bullets": [
+            "Performed EDA on 13k+ entries, addressing missing values, normalizing features, removed outliers and compared the results"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "Y \r\nCALORIES BURNT PREDICTION | XGBOOST REGRESSOR W": {
+        "text": [
+            "score of 0.82 for the model by evaluating Ridge Regression as the most effective method for this data\r\nW",
+            "(April\u201924 )"
+        ],
+        "bullets": [
+            "Performed extensive data preprocessing,implemented ML algorithms: XGBoost, Random Forest Regressor, compared MAE",
+            "Achieved Mean Absolute Error of 1.48 for model by evaluating XGBoost Regressor as most effective method for this data"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "WORKSHOPS & INTERNSHIPS W": {
+        "text": [],
+        "bullets": [
+            "Participated in Analytical Techniques and Instrumentation for Water Assessment by CSIR-Durgapur 2020",
+            "Participated in Online Internship Program organised by IIChE on Chemical Process Technology Workshop 2021"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "TECHNICAL SKILLS": {
+        "text": [],
+        "bullets": [
+            "Programming Languages & Software: MATLAB, MS Office, C, Python",
+            "Libraries: NumPy, Sklearn, Pandas, Matplotlib, Seaborn",
+            "Soft Skills: Adaptability, Leadership, Communication, Problem Solving, Time Management",
+            "Characterization Techniques: ICP-MS, UV-VIS-NIR Spectroscopy, SEM"
+        ],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    },
+    "OVERALL COORDINATOR OF RESEARCH SCHOLARS\u2019 DAY (RSD), IIT KANPUR": {
+        "text": [
+            "Teaching Assistant of Unit Operations(UOP)lab, CHE 391",
+            "(May\u201924 )",
+            "(Jan\u201924-April\u201924 )",
+            "Teaching Assistant for Introduction to CHE and Process Calculation (MATLAB), CHE251 Lab (Sept'23-Nov'23 )"
+        ],
+        "bullets": [
+            "Supervised experiments, resolved student queries, and graded the lab reports, ensuring a clear understanding of lab procedures",
+            "Supervised and assisted the professor in efficiently grading course assignments, ensuring accurate evaluation and timely feedback"
+        ],
+        "tables": [
+            [
+                [
+                    "Relevant Courses Online Course*  W"
+                ],
+                [
+                    "Chemical Reaction Engineering",
+                    "Heat Transfer"
+                ],
+                [
+                    "Mathematical Methods in Chemical Engg.",
+                    "Fluid Mechanics"
+                ],
+                [
+                    "Technologies for Clean and Renewable Energy Production NPTEL \u2217",
+                    "IEEE English for Technical Professionals \u2217"
+                ]
+            ]
+        ],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    },
+    "EXTRA-CURRICULAR ACTIVITIES W": {
+        "text": [
+            "i",
+            "\u00d3 +91-9547063079"
+        ],
+        "bullets": [
+            "Actively volunteered at Raktarpan IIT Kanpur, contributed to promoting awareness and encouraged participation",
+            "Awarded the prestigious First Prize in the essay competition organised by DIATM College"
+        ],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO",
+            "IMAGE/LOGO",
+            "IMAGE/LOGO"
+        ]
+    }
+}

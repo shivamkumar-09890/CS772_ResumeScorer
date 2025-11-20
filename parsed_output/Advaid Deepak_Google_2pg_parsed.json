@@ -1,0 +1,317 @@
+{
+    "UNASSIGNED": {
+        "text": [],
+        "bullets": [],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    },
+    "ADVAID DEEPAK COMPUTER SCIENCE & ENGINEERING INDIAN INSTITUTE OF TECHNOLOGY BOMBAY": {
+        "text": [
+            "20D070006",
+            "B.Tech.",
+            "Gender: Male",
+            "DOB: 03/06/2002"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Examination",
+                    "University",
+                    "Institute",
+                    "Year",
+                    "CPI / %"
+                ],
+                [
+                    "Graduation",
+                    "IIT Bombay",
+                    "IIT Bombay",
+                    "2024"
+                ],
+                [
+                    "Intermediate",
+                    "CBSE",
+                    "Placid Vidya Vihar",
+                    "2020",
+                    "98.20%"
+                ],
+                [
+                    "Matriculation",
+                    "CBSE",
+                    "Devagiri CMI Public School",
+                    "2018",
+                    "98.00%"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "PURSUING HONORS IN COMPUTER SCIENCE\r\nSA": {
+        "text": [
+            "g p\r\nScholastic Achievements",
+            "Biology",
+            ",",
+            "Basics of Electricity and Magnetism",
+            ",",
+            "Economics",
+            ",",
+            "Introduction to Numerical Analysis (’21)",
+            "(’20)",
+            "(’19)"
+        ],
+        "bullets": [
+            "Achieved a Change of Branch to the department of Computer Science & Engineering from Electrical Engineering among 16 out of 1300+ students owing to excellent academic performance ('21)",
+            "Secured AP grade (advanced performer) in 5 courses (12 out of 1300+ students) -Linear Algebra ,",
+            "Secured All India Rank 95 in JEE Mains among 11.7 Lakh candidates with 99.994 percentile and bagged the position of State topper from Kerala in both January and September sessions ('20)",
+            "Secured All India Rank 749 in JEE Advanced examination among 1,50,838 candidates",
+            "Qualified to appear for Indian National Chemistry Olympiad (INChO) (top 802 out of 49644)",
+            "Selected to appear for the National level Saksham Quiz Competition conducted by the Petroleum Conservation and Research Association(PCRA) representing my state Kerala at Doordarshan, Delhi ('18)",
+            "Awarded the Kishore Vaigyanik Protsahan Yojana (KVPY) fellowship for All India Rank 86 in Aptitude test conducted by the Indian Institute of Science,Bangalore among 50000 candidates ('20)",
+            "Recipient of the National Talent Search Examination (NTSE) scholarship by NCERT, Government of India which is given to 1000 out of 0.9 million aspirants from all over India ('18)"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "HARDWARE TIMESTAMPS FOR BSD SOCKETS | SOFTWARE INTERNSHIP": {
+        "text": [
+            "Quadeye Securities , Gurugram"
+        ],
+        "bullets": [
+            "Added a feature to an existing Sockets acceleration library to populate hardware timestamps for TCP sockets",
+            "Created a buffer field within TCP state to store the timestamp of each segment after acquiring it from hardware",
+            "Optimized the handling of out-of-order segments by creating separate deques within user and kernel space"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "ANALYSIS OF BUSINESS REPORTS | RND PROJECT": {
+        "text": [
+            "Guide: Prof.Suyash Awate, Department of Computer Science & Engineering"
+        ],
+        "bullets": [
+            "Trained Glove on the entire corpus of annual & quarterly reports of various companies to create word embeddings",
+            "Selected certain seed words and phrases , used their corresponding Glove vectors to find similar words based on the distance between the words in vector space forming a consolidated list of words/phrases for analysis",
+            "Predicted the profit margin by training LASSO on these Glove vectors , their frequency and TFIDF values"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "POLLEN GRAIN CLASSIFICATION | RESEARCH INTERNSHIP": {
+        "text": [
+            "Guide: Prof.Nathan Swami, University of Virginia"
+        ],
+        "bullets": [
+            "Working on classifying pollen grains based on their optical and electrical properties using Support Vector Machine",
+            "Automated the segmentation of images to be further used for acquiring optical features",
+            "Vectorized papers of Indian patents from 2007 to 2013 using Distributed Memory Model of Paragraph Vectors",
+            "Using the document vectors to cluster papers based on distance in vector space allowing easier search"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "ANALYSIS OF PATENT DATA | BTECH PROJECT": {
+        "text": [
+            "(Aug ’23- Present)",
+            "Guide: Prof.Suyash Awate, Department of Computer Science & Engineering"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "OUT-OF-DISTRIBUTION DETECTION | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof.Sunita Sarawagi , Department of Computer Science & Engineering"
+        ],
+        "bullets": [
+            "Implemented a paper on Out-Of-Distribution (OOD) detection method for Conditional Language Models (CLMs)",
+            "Demonstrated its effectiveness on abstractive summarization on both encoder-decoder and decoder-only architectures",
+            "Performed Selective Generation using the OOD scores , abstaining whenever OOD score is very high"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "FACIAL EXPRESSION RECOGNITION WITH KERAS | SELF PROJECT": {
+        "text": [
+            "Guide: Snehan Kekre, Coursera Project Network",
+            "i",
+            "(July ’22)",
+            "(May ’22- July’22)",
+            "(Jan ’23- Apr’23)",
+            "(May ’23- July’23)",
+            "(Mar’23- Apr ’23)",
+            "Time Series Database | Course Project",
+            "(Mar’23- Apr ’23)",
+            "Guide: Prof.S Sudarshan, Department of Computer Science & Engineering",
+            "•",
+            "Attributes of the same table & time-interval are stored in the same file , using bitmaps to indicate non-null attributes"
+        ],
+        "bullets": [
+            "Developed a facial expression recognition model in Keras by training a convolutional neural network",
+            "Applied the model on live stream using OpenCV after recognizing the face using a pre-trained model",
+            "Implemented a database from scratch , specialized for storing time series data handling basic CRUD queries",
+            "Exploited the temporal nature of time series data to optimize insertion and storage in our file system"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "ROBUST VIDEO DENOISING | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof.Ajit Rajwade, Department of Computer Science & Engineering"
+        ],
+        "bullets": [
+            "Implemented a patch-based video denoising algorithm to remove heavy Gaussian noise mixed with Poisson noise and Impulsive noise , achieivng nearly 100% increase in Peak signal-to-noise ratio (PSNR) value",
+            "Grouped similar patches in spatial and temporal domain to make it a low rank matrix completion problem",
+            "Fixed point iteration was used to efficiently solve the resulting nuclear norm related minimization"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "FAKE NEWS DETECTION | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof.Abir De, Department of Computer Science & Engineering"
+        ],
+        "bullets": [
+            "Implemented a Vectorizer using Glove along with an LSTM Network and compared it with TFIDF vectorizer",
+            "Inferred that Glove + LSTM provides concise but powerful representation of the text that is consistent across classifiers producing around 16% improvement in accuracy than that of TFIDF on restricting the size of output"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "SOCIAL MEDIA/NETWORKING ANDROID APPLICATION | COURSE PROJECT": {
+        "text": [
+            "(Oct ’21- Nov ’21)",
+            "Guide: Prof.Amitabha Sanyal, Department of Computer Science & Engineering",
+            "•",
+            "Developed features like login,registration,news feed,one-to-one chat along with user authentication using tokens"
+        ],
+        "bullets": [
+            "Developed a Frontend android based social networking application using Android Studio in Java",
+            "Set up PostgreSQL Database and implemented backend scripts using Django REST Framework"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "PEER TO PEER NETWORK | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof.Kameshwari Chebrolu, Department of Computer Science & Engineering"
+        ],
+        "bullets": [
+            "Designed an original File Transfer Protocol (FTP) in a decentralized Network using Socket Programming",
+            "Implemented File Transmission with MD5 encryption using OpenSSL, sends files in fragments along with offset"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "FMX RENDERING AND ANIMATION | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof.Parag Chaudhuri, Department of Computer Science & Engineering"
+        ],
+        "bullets": [
+            "Rendered a rider on a bike in an FMX track using OpenGL allowing both recording and playback",
+            "Added lighting using a per-pixel shader and enabled multiple viewing positons by modifying the look-at matrix"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "IITB-RISC-22 | COURSE PROJECT": {
+        "text": [
+            "Guide: Prof.Virendra Singh, Department of Computer Science & Engineering"
+        ],
+        "bullets": [
+            "Developed a pipelined processor that allows predicated instruction execution and multiple load and store execution with three machine-code instruction formats (R, I, and J type) and a total of 17 instructions using QUARTUS",
+            "Optimized for performance with hazard mitigation techniques like forwarding and branch prediction"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "DEPT ACADEMIC MENTOR | DEPT ACADEMIC MENTORSHIP PROGRAM": {
+        "text": [
+            "(June ’22 - Apr ’23)"
+        ],
+        "bullets": [
+            "Selected as DAMP Mentor via a rigorous procedure consisting of SOP, peer reviews and interviews",
+            "Mentoring a group of 6 students to boost their academics and provide guidance and general counsel"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "TEACHING ASSISTANT | CALCULUS": {
+        "text": [
+            "Prof Mayukh Mukherjee, Dept of Mathematics"
+        ],
+        "bullets": [
+            "Preparing to mentor 40+ students with weekly tutorials on the material covered as well as doubt clearing"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "TECHNICAL SKILLS": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Programming",
+                    "C++, Java, Python, Javascript ,Prolog ,Bash, Sed, Awk, VHDL"
+                ],
+                [
+                    "Software",
+                    "Git, LATEX, MATLAB , Quartus, Keil, Flex , Bison"
+                ],
+                [
+                    "Development",
+                    "HTML, CSS, PostgreSQL, Django, Android Studio , NodeJS , React"
+                ],
+                [
+                    "Libraries",
+                    "Keras, Python-Numpy, Python-Scipy, Python-Matplotlib, Pandas , PyTorch"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "KEY COURSES UNDERTAKEN": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Computer Science",
+                    "Artifical Intelligence and Machine Learning, Data Structures and Algorithms, Discrete Structures, Computer Networks,Computer Architecture, Advanced Image Processing, Software Systems Lab, Computer Programming and Utilisation, Operating Systems, Advanced Machine Learning ,Database and Information Systems"
+                ],
+                [
+                    "Maths",
+                    "Calculus, Linear Algebra, Differential Equations, Introduction to Numerical Analysis"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "EXTRACURRICULAR ACTIVITIES": {
+        "text": [
+            "ii",
+            "(Dec’21- Jan ’22)",
+            "(April ’22- May ’22)",
+            "(Nov ’22)",
+            "(March ’22- April ’22)",
+            "(Oct’22- Nov ’22)",
+            "(April ’22- May ’22)"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Sports",
+                    "Underwent one year of formal training under the National Sports Organisation(NSO) at IIT Bombay  (’21)"
+                ],
+                [
+                    "Music",
+                    "Awarded Distinction in Graded Examination in Rock and Pop in Initial Keyboards by Trinity College of London  (’15)"
+                ]
+            ]
+        ],
+        "pictures": []
+    }
+}

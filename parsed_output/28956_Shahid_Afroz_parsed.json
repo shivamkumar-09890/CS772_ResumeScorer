@@ -1,0 +1,228 @@
+{
+    "UNASSIGNED": {
+        "text": [
+            "Shahid Afroz"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "SHAHID AFROZ": {
+        "text": [
+            "Postgraduation in Mechanical Engineering"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "EDUCATION": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Year",
+                    "Degree/Certificate",
+                    "Institute",
+                    "CPI/%"
+                ],
+                [
+                    "2023 - Present",
+                    "M.Tech",
+                    "Indian Institute of Technology Kanpur",
+                    "8.3/10"
+                ],
+                [
+                    "2018 - 2022",
+                    "B.Tech",
+                    "Muzaffarpur Institute of Technology, Bihar",
+                    "7.89/10"
+                ],
+                [
+                    "2017",
+                    "Class XII",
+                    "S.S college, Jehanabad, Bihar",
+                    "65.80%"
+                ],
+                [
+                    "2015",
+                    "Class X",
+                    "Kainat International school, Bihar",
+                    "9.8/10"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "SURFACE TOPOGRAPHY PREDICTION AND MATERIAL BEHAVIOR STUDY ON COPPER USING": {
+        "text": [
+            "AI -ML Mentor: Prof. f. Sarvesh Mishra | M. Tech thesis",
+            "(Dec’23-Ongoing"
+        ],
+        "bullets": [
+            "o Conducted extensive literature reviews to identify gaps and opportunities for further research.",
+            "o Used Minitab for detailed experimental planning and optimization to ensure accurate and reliable results.",
+            "o Developed , optimized, and validated models to simulate experimental conditions and improve accuracy through experimental result"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "IOT BASED SMART AIR PURIFICATION SYSTEM | B. TECH PROJECT": {
+        "text": [
+            "Mentor: Prof. Ankit Kumar",
+            "(Feb’22-Aug’22)"
+        ],
+        "bullets": [
+            "o Developed an air purifier with Arduino UNO, integrating HEPAand carbon filters for enhanced indoor air quality.",
+            "o Designed the system for energy efficiency, activating only when pollution exceeds set thresholds."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "SIMULATION OF 2D VISCOUS FLOW IN A CHANNEL USING STREAM FUNCTION-VORTICITY": {
+        "text": [
+            "Method. Mentor: Prof. Arun Kumar | ME630 GitHub",
+            "Course Project | (Aug’23",
+            "-",
+            "Dec’23)"
+        ],
+        "bullets": [
+            "o Used stream function -vorticity method and finite difference techniques to solve Navier -Stokes equations for channel flow.",
+            "o Applied boundary conditions and convergence checks, visualized results with velocity vectors and vorticity contours."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "IMPLEMENTATION OF 2D PLANE STRAIN ANALYSIS USING FEM IN MATLAB.": {
+        "text": [
+            "Mentor: Prof. Pankaj Wahi | FEM – ME623 GitHub",
+            "Course Project | (Jan’24 – Apr’24)"
+        ],
+        "bullets": [
+            "o Developed FEM algorithms to solve 2D plane strain problems, focusing on stress -strain and strain -displacement relations .",
+            "o Applied numerical integration techniques, including two-point Gauss quadrature, for precise stiffness matrix and force vector evaluation ."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "SMARTPHONE BATTERY ENHANCEMENT WITH THE HELP OF QFD AND TRIZ": {
+        "text": [
+            "Mentor: Prof. Niraj Sinha | ME701",
+            "Course Project | (Aug'23 -Dec'23)"
+        ],
+        "bullets": [
+            "o Enhanced smartphone battery life using QFD to address key needs like longer duration, fast charging, and low heat emission.",
+            "o Applied TRIZ principles to innovate solutions, balancing increased battery capacity with reduced weight ."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "MATERIAL SELECTION FOR BIO -IMPLANTS, KNEE JOINTS": {
+        "text": [
+            "Mentor: Prof. Kamal K Kar | ME770",
+            "Course Project | (Jan’24 – Apr’24)"
+        ],
+        "bullets": [
+            "o Conducted a study to optimize material selection for knee implants, focusing on enhancing fatigue life .",
+            "o Analysed various materials to identify the most suitable option for improving implant durability ."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "COTTER JOINT DESIGN ANALYSIS USING VARIOUS THEORIES OF FAILURE AND ANSYS.": {
+        "text": [
+            "Self -",
+            "Project | GitHub (Jan'24 – Apr'24)"
+        ],
+        "bullets": [
+            "o Failure Analysis & Simulation: Evaluated cotter joint integrity using failure theories and ANSYS simulations.",
+            "o Design Optimization: Enhanced cotter joint performance by optimizing design based on simulation results."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "CUSTOMER DATA ANALYSIS AND PREDICTIVE MODELLING FOR TERM DEPOSIT.": {
+        "text": [
+            "Selffproject GitHub",
+            "(May’24-Aug’24)"
+        ],
+        "bullets": [
+            "o Analysed and visualized customer data using Python to identify key factors influencing term deposit subscriptions.",
+            "o Developed and evaluated machine learning models to predict customer behaviour, improving subscription forecast accuracy .",
+            "o Applied feature engineering and correlation analysis to enhance model performance and guide targeted marketing strategies."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "TECHNICAL SKILLS": {
+        "text": [
+            "Programming: MATLAB, Python",
+            "(NumPy, pandas, matplotlib etc.)",
+            "Tools: Auto Cad, SOLIDWORKS,",
+            "ANSYS, CATIA, MS Office, LaTeX.",
+            "Skills: 3D Printer, CNC Operation and",
+            "Coding.",
+            "Data Science: Machine learning , ANN, CNN ."
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "RELEVENT COURSE": {
+        "text": [],
+        "bullets": [
+            "o Computational Fluid Dynamics and Heat Transfer",
+            "o Additive Manufacturing",
+            "o Design for manufacturing & assembly",
+            "o Finite Element Methods in Engineering Mechanics",
+            "o Micro manufacturing",
+            "o Artificial intelligence, machine learning, deep learning & its applications"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "MATLAB ONRAMP": {
+        "text": [
+            "(July’2023)",
+            "MATLAB",
+            "Data Science with python",
+            "(June’24-Aug’24)",
+            "FINLATICS",
+            "IC Engines and Gas Turbines",
+            "(Jan’22-Apr’22)",
+            "NPTEL",
+            "3D Model Creation with Autodesk",
+            "Fusion 360 .",
+            "(May’2021)",
+            "COURSERA"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "POSITION OF RESPONSIBILITY": {
+        "text": [
+            "Teaching Assistant (ME361): Secondary Manufacturing Process (June'24-Dec'24)"
+        ],
+        "bullets": [
+            "o Led CNC milling experiments, providing hands-on instruction in machine operation and CNC programming.",
+            "o Mentored students, ensuring comprehensive understanding of CNC processes and code application."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "PROCTORING ROLE FOR ONLINE PHD ENTRANCE EXAM": {
+        "text": [
+            "+91 - 9523587789",
+            "|",
+            "safroz23@iitk.ac.in"
+        ],
+        "bullets": [
+            "o Exam Supervision: Proctored an online PhD entrance exam, ensuring a smooth and fair testing environment for 15 students."
+        ],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    }
+}

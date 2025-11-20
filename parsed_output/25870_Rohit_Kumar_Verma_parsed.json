@@ -1,0 +1,154 @@
+{
+    "ROHIT KUMAR VERMA": {
+        "text": [
+            "MTech Final Year Computational Mechanics Indian Institute Of Technology, Kanpur"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "EDUCATION": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Year",
+                    "Degree/Certificate",
+                    "Institute",
+                    "CPI/%"
+                ],
+                [
+                    "2023 - Present",
+                    "MTech(Aerospace Engineering)",
+                    "Indian Institute of Technology, Kanpur",
+                    "9.00/10"
+                ],
+                [
+                    "2017-2021",
+                    "BTech(Mechanical Engineering)",
+                    "Madan Mohan Malaviya University of Technology, Gorakhpur",
+                    "7.49/10"
+                ],
+                [
+                    "2017",
+                    "Higher Secondary(XII)",
+                    "Udai Pratap Inter College Varanasi/ UP Board",
+                    "87.40%"
+                ],
+                [
+                    "2014",
+                    "Secondary(X)",
+                    "Lalita Shastri Inter College Varanasi/ UP Board",
+                    "82.00%"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "SCHOLASTIC ACHIEVEMENTS": {
+        "text": [],
+        "bullets": [
+            "Certificate of Merit for Academic Excellence (2023)",
+            "GATE 2022 Rank Holder (AIR263) - Engineering Sciences (XE)"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "MTECH THESIS": {
+        "text": [
+            "Supervisor: Dr. Pritam Chakraborty (Department of Aerospace Engineering, IIT Kanpur)",
+            "Objective: Develop a phase-field damage model for low cycle fatigue of aluminium alloys, incorporating contact, friction, and plastic closure.",
+            "Approach: Utilize Abaqus with custom subroutines UMAT and UEL to simulate the behavior of aluminium alloys under LCF conditions, accounting for residual stresses and complex interactions.",
+            "Results:"
+        ],
+        "bullets": [
+            "Phase Field Damage Model of Al Alloy Under Low Cycle Fatigue* | ISRO Project"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "BTECH THESIS": {
+        "text": [
+            "Supervisor: Dr. Sanjay Mishra (Department of Mechanical Engineering, MMMUT Gorakhpur)",
+            "Objective: Develop a finite element model in ANSYS to simulate turning operations and analyze deformation, stress, and shear stress.",
+            "Approach:Utilize finite element approximation, elemental equation assembly, and boundary condition application to simulate the turning process.",
+            "Results: The model can serve as an alternative for experimental studies. This model is capable to estimate deformation, stress and strain distributions."
+        ],
+        "bullets": [
+            "Simulation and Analysis of Turning Operation Using ANSYS"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "KEY PROJECTS": {
+        "text": [],
+        "bullets": [
+            "Developed finite element codes for elastic bar and beam analysis using Lagrange, hierarchic, and Hermite cubic shape functions, validating solutions against analytical methods. (Introduction to Finite Element Methods) (Apr'24 )",
+            "Compared FDM, FEM, and FVM for solving a 3-element system's differential equation (Computational Methods) (Nov'23 )",
+            "Literature review focusing on Machine Learning applications for predicting mechanical properties, such as strength, toughness, hardness, brittleness, and ductility. | Self Project (Jan'24 )"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "TECHNICAL SKILLS": {
+        "text": [],
+        "bullets": [
+            "Programming Languages: Matlab, Python, Fortran",
+            "Software Tools: Abaqus, Ansys",
+            "Soft Skills: Latex, MS Power Point, MS Word, MS Excel"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "RELEVANT COURSES": {
+        "text": [
+            "Computational Methods, Continuum Mechanics, Introduction to Finite Element Methods, Mathematics for Aerospace Engineering, Material Science and Engineering, Mechanics of Solids, Applied Machine Learning, Machine Design, Composite Material, Aerospace Structural Analysis"
+        ],
+        "bullets": [
+            "Internship at INDIA Redefined",
+            "– Successfully completed an internship focused on an Awareness Campaign.",
+            "– Contributed to promoting Individual Social Responsibility (ISR)."
+        ],
+        "tables": [
+            [
+                [
+                    "ONLINE CERTIFICATIONS"
+                ],
+                [
+                    "•  Structural Engineering Abaqus Tutorials by Armin Yousefi Kanani – Udemy (Aug’24 )"
+                ],
+                [
+                    "•  AI for Excel Formulas – CFI",
+                    "(Aug’24 )"
+                ],
+                [
+                    "•  Supervised Machine Learning: Regression and Classification by Andrew Ng – Coursera (Mar’24 )"
+                ],
+                [
+                    "•  Automobile Overhauling workshop – Prigma Edutech Solutions (Sep’17 )"
+                ],
+                [
+                    "INTERNSHIP"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "POSITION OF RESPONSIBILITY": {
+        "text": [
+            "i",
+            "(Feb’19-Apr’19 )",
+            "(June’24-Ongoing)"
+        ],
+        "bullets": [
+            "Teaching Assistant at IIT Kanpur | Engineering Graphics: Guiding students during weekly lab sessions, and graded assignments. Additionally, I tracked attendance and assisted in developing and implementing lab work.",
+            "Member of SAE Collegiate Club, MMMUT Chapter : Coordinator of AB-initio Event.",
+            "(Dec’20-July’21 )"
+        ],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    }
+}

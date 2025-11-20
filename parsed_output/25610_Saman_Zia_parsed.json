@@ -1,0 +1,287 @@
+{
+    "SAMAN ZIA": {
+        "text": [
+            "Department of Sustainable Energy Engineering"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "ACADEMIC QUALIFICATIONS": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Year",
+                    "Degree/Certificate",
+                    "Institute",
+                    "CPI/%"
+                ],
+                [
+                    "2023 - Present",
+                    "MS (R) - Sustainable Energy Engineering",
+                    "Indian Institute of Technology Kanpur",
+                    "7.32/10"
+                ],
+                [
+                    "2017 - 2021",
+                    "B.E. - Electrical and Electronics Engineering",
+                    "Birla Institute of Technology Mesra",
+                    "8.08/10"
+                ],
+                [
+                    "2016",
+                    "Higher Secondary Class (XII)",
+                    "Al Momin International School Gaya",
+                    "76.20%"
+                ],
+                [
+                    "2014",
+                    "Secondary Class (X)",
+                    "St. Joseph’s School Nawada",
+                    "10/10"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "SKILLS": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Tools",
+                    "•  MATLAB/Simulink, MS Visio, LaTex, KiCad, LTSpice, HTML, CSS, C Prog, and Python."
+                ],
+                [
+                    "Others",
+                    "•  Time Management, Hardworking, and Team leader; Languages: English, Hindi, and Urdu."
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "PROJECTS": {
+        "text": [
+            "Design and Control of Partial Power Processing Converter Architecture for EV Charging | MS (R) Thesis | IIT K May'24-Ongoing",
+            "About"
+        ],
+        "bullets": [
+            "Research Focus: This thesis investigates the design and simulation of a Dual Active Bridge (DAB) -based Partial Power Processing converter (PPPC) architecture for electric vehicle (EV) chargers, aiming to enhance efficiency and reduce overall system size under the supervision of Prof. Amarendra Edpuganti.",
+            "Scope: The study involves theoretical analysis and extensive simulation to optimize the PPPC architecture design, control strategies and component selection, emphasizing the practical application in fast-charging systems ."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "STUDY AND IMPLEMENTATION OF SINGLE INPUT MULTIPLE OUTPUT DC-DC CONVERTER | MAJOR PROJECT | B.E. AUG’20-APR’21": {
+        "text": [
+            "About"
+        ],
+        "bullets": [
+            "Under the direction of Prof. Md Asif Hasan, studied and simulated a SIMO DC-DC converter using a coupled inductor for high voltage gain from low input sources, employing voltage clamping (VC) and zero current switching (ZCS) techniques for improved performance."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "18/24/30 PULSE AC-DC CONVERTER | COURSE PROJECT | IIT K": {
+        "text": [
+            "Jan’23-Mar’23"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Objective",
+                    "•  To develop an 18/24/30 pulse rectifiers using combinations of extended delta ,  delta polygon ,  star, and delta ."
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "DESIGN AND SIMULATION OF SINGLE CHANNEL GATE DRIVER FOR 3 PHASE NPC INVERTER | COURSE PROJECT | IIT K MAR’23-APR’23": {
+        "text": [
+            "Objective"
+        ],
+        "bullets": [
+            "To design and simulate a single-channel gate driver for a 3-phase Neutral Point Clamped (NPC) inverter that ensures reliable and efficient switching of the power devices while maintaining proper isolation and control."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "PWM TECHNIQUES FOR INVERTER | SELF PROJECT | IIT K | ": {
+        "text": [
+            "Objective",
+            "•",
+            "Mar’23-Apr’23",
+            "To understand different PWM techniques like SPWM, LSPWM, PSPWM, and 3rd harmonic injection"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "BASIC DC-DC CONVERTER SIMULATIONS FOR EV APPLICATIONS | SELF PROJECT | IIT K | ": {
+        "text": [
+            "Objective"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "DESIGN AND MODELLING OF COST EFFECTIVE ELECTRIC VEHICLE | IIT PATNA, BIHAR": {
+        "text": [
+            "About",
+            ".",
+            "Aug’23-Oct’23",
+            "Dec’19- Jan’20"
+        ],
+        "bullets": [
+            "Basic dc-dc non-isolated converter simulations include Buck, Boost, Buck-Boost, Cuk, Sepic, and Zeta.",
+            "To simulate Forward and Flyback and interleaved 2 and 4-phase boost converters .",
+            "Design and build an affordable DC motor-based mobility scooter for disabled and local transportation, focusing on efficiency, low maintenance, and performance optimization, under the supervision of Dr. Ranjan Kumar Behera."
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "NATIONAL THERMAL POWER CORPORATION (NTPC) | BARH, BIHAR": {
+        "text": [
+            "About",
+            "i",
+            "R samanz23@iitk.ac.in | Ó +91-9113745891 | ¯ Saman Zia |  Saman Zia",
+            "Jun’19- Jul’19"
+        ],
+        "bullets": [
+            "One months industrial educational adventure for thermal power plant experience."
+        ],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    },
+    "ACHIEVEMENTS AND EXTRA-CURRICULAR ACTIVITIES": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Scholastic",
+                    "•  Secured All India Rank 1536 in GATE 2023 EE Paper. •  Secured All India Rank 677 in GATE 2024 EE Paper . •  Secured All India Rank 275 in GATE 2024 IN Paper . •  Secured First Class with Distinction in B.E.(EEE) at BIT Mesra. •  Acquired A grade in (SEE 603) Electrical Power Engineering course subject."
+                ],
+                [
+                    "Organizer",
+                    "•  Student Co-coordinator for One Week MATLAB/Simulink Workshop for engineering applications at BIT Mesra."
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "POSITIONS OF RESPONSIBILITY": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "TA Duty, DPGC",
+                    "•  Assisting with academic and administrative tasks related to postgraduate student records, academics, documentation, and supporting the organization of DPGC meetings. •  Coordinated departmental orientation for newly enrolled students in Winter(January) and Summer(July) 2024. •  Managed the research database, handled website data management and participated in outreach activities for the Chandrakanta Kesavan Centre for Energy Policy & Climate Solutions (CKC-EPCS) as a part of TA responsibilities."
+                ],
+                [
+                    "TA Duty, EV",
+                    "•  TA duty for Electric Vehicle course, conducting tutorials, grading assignments, and clarifying EV technology concepts ."
+                ],
+                [
+                    "Volunteer RSD 2024, IIT Kanpur, SEE",
+                    "•  Assisted in organizing and coordinating the annual Research Scholar Day event, aimed at highlighting cutting\u0002 edge research and developments in sustainable energy engineering . •  Engaged with scholars and researchers, facilitating discussions and networking opportunities to foster collaboration within the sustainable energy community. •  Supported event logistics, including setup, registration, and managing sessions, ensuring a smooth experience for attendees and presenters."
+                ],
+                [
+                    "SG at ICS",
+                    "•  Served as the Student Guide at the Institute Counselling Services (ICS), IIT Kanpur, providing peer support and guidance on academic, career, and personal development resources. •  Facilitated the distribution and accessibility of counselling services information, including organizing workshops, advising on academic planning, and offering mental health support resources."
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "RELEVANT COURSES": {
+        "text": [],
+        "bullets": [
+            "Electric vehicles",
+            "Basics of power electronics converters",
+            "Control techniques in power electronics",
+            "High power converters:Design, Control and Operation",
+            "Power Electronics",
+            "Analog Electronics",
+            "Power Systems",
+            "Digital Signal Processing",
+            "Electrical Power Engineering",
+            "An introduction to sustainable energy technologies",
+            "Fuel Cell Electrical Energy Systems",
+            "Physics of energy materials",
+            "Electrical Machines",
+            "Digital electronics",
+            "Microprocessor and Microcontroller",
+            "Control System"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "(SEE 605) INTRODUCTION TO SUSTAINABLE ENERGY TECHNOLOGIES LABORATORY PROJECTS": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Solar Photovoltaic Testing",
+                    "•  The I-V and P-V characteristics of series and parallel combinations of PV modules. •  Effect of change in tilt angle on the output of PV modules. •  Effect of shading on module output power. •  Working of a diode as a blocking diode. •  Effect of Temperature on Efficiency of module."
+                ],
+                [
+                    "Microgrid",
+                    "•  Operate the RLC load and observe inverter parameters with only grid supply. •  Power flow analysis in grid connected mode and determine overall import or export of power. •  Operate micro-grid(ON-Grid) and find the efficiency of different power electronic devices. •  Operate WTE, PVE, Battery, and RLC load in MPPT and OFF MPPT mode in OFF-grid."
+                ],
+                [
+                    "Solar Thermal Conversion",
+                    "•  The Evaluation of total heat loss coefficient, the Heat Removal Factor and Efficiency of SWH."
+                ],
+                [
+                    "Thermal Energy Storage",
+                    "• Thermal energy capacity and efficiency of the paraffin wax during charge, discharge and storage."
+                ],
+                [
+                    "Wind Energy",
+                    "• Turbine blade parameters on power generation and power analysis during VPD and FPD."
+                ],
+                [
+                    "MOSFET",
+                    "•  Transfer and Drain characteristics of MOSFET and."
+                ],
+                [
+                    "Seebeck and peltier effect",
+                    "• Demonstration of Peltier Effect, Seebeck Effect and determination of Seebeck Coefficient."
+                ],
+                [
+                    "Battery Testing",
+                    "• Fabrication of Li-ion coin cell and various electrochemical tests:charge-discharg and EIS."
+                ],
+                [
+                    "Fuel Cell",
+                    "•  Experimented to analyze the performance and efficiency of a proton exchange membrane (PEM) fuel cell."
+                ],
+                [
+                    "Water Remediation",
+                    "•  Photocatalytic degradation of Methylene Blue (C16H18ClN3S) under visible light illumination."
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "HOBBIES": {
+        "text": [
+            "ii",
+            "∗ till summer term"
+        ],
+        "bullets": [
+            "— Playing cricket and badminton, Listening to music, and watching movies."
+        ],
+        "tables": [],
+        "pictures": []
+    }
+}

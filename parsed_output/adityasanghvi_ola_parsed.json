@@ -1,0 +1,179 @@
+{
+    "UNASSIGNED": {
+        "text": [],
+        "bullets": [],
+        "tables": [],
+        "pictures": [
+            "IMAGE/LOGO"
+        ]
+    },
+    "INDIAN INSTITUTE OF TECHNOLOGY BOMBAY": {
+        "text": [
+            "20B030005",
+            "B.Tech.",
+            "Gender: Male",
+            "DOB: 22/10/2002"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "Examination",
+                    "University",
+                    "Institute",
+                    "Year",
+                    "CPI / %"
+                ],
+                [
+                    "Graduation",
+                    "IIT Bombay",
+                    "IIT Bombay",
+                    "2024",
+                    "8.1"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "SCHOLASTIC ACHIEVEMENTS": {
+        "text": [],
+        "bullets": [
+            "• Awarded change of branch given to top 8% (of 1.3k+ students)",
+            "• Secured state rank 27 & district rank 3 in Maharashtra Olympiad",
+            "• Achieved state rank of 118 in NSTSE Science & Math examination",
+            "• Cleared Grade 10 International Standard of ABACUS Computation"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "PROFESSIONAL EXPERIENCE": {
+        "text": [
+            "Offered Letter of Recommendation on basis of persistence, depth, and analytical skills showcased during project Project 1 - Single Source of Truth: Refining data from silos for utilization in Enterprise Asset Management software",
+            "•",
+            "Reduced cost by 30% by creating dataset of 1.2k+ assets’ bill of materials to train AI to automate classification",
+            "Project 2 - Industry 4.0: Digitalization of manufacturing in the aerospace industry for higher levels of optimization",
+            "•",
+            "Benchmarked 5 international aerospace OEMs & analyzed KPIs of manufacturing and supply chain processes",
+            "Venture Capital firm upscaling 30+ start-ups in new-age technologies | Fund size: ₹ 1B | Investment Analyst",
+            "Awarded Letter of Recommendation | India’s 1",
+            "st caffeine care brand | Revenue: ₹ 2.5B | Strategy & Growth"
+        ],
+        "bullets": [
+            "• Ideated & scrutinized 5 fresh features for the software with potential to expand existing clientele by up to 20%",
+            "• Cut downtime by 20% and maintenance costs by 15% by strategizing implementation of digital twins for OEMs",
+            "• Scrutinizing 150+ Madhya Pradesh based early-stage startups across 5 parameters as investment opportunities",
+            "• Examining space-tech industry across 7 segments: tracked funding trends & assessed investment exit strategies",
+            "• Analysed launch & marketing strategy by 4 key brands (worth ₹ 120.7B valuation) in the personal care market",
+            "• Formulated 5 marketing tactics to achieve a potential customer base increase of 500k+ with minimal resources"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "POSITIONS OF RESPONSIBILITY": {
+        "text": [],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "4-day on ground festival at IITB Campus | Net Worth: ₹ 95M | Events: 240+ | Footfall: 146k+ | Colleges: 5,000+"
+                ],
+                [
+                    "HEAD OF  EVENTS  52nd MOOD INDIGO",
+                    "MILESTONESII",
+                    "  Constructed deals with embassies and consulates of 50+ nations to raise funds worth ₹ 6M+   Organised 15 assorted panel discussions staging over 25 VVIPs gathering a total footfall of 21k+   Established strategic alliances to secure ₹ 10M+ worth of showcase acts under a budget of ₹ 1M"
+                ],
+                [
+                    "Asia’s Largest College  Cultural Festival [Apr ’22 – Mar ’23]",
+                    "INITIATIVES",
+                    "  Executed launch event ft. A-list stars, economizing 90% (₹ 1M to ₹ 0.1M) via cost-sharing model   Conceptualized 5 acts (10k+ audience) worth ₹ 1M+ at zero budget for first-ever HipHop Fest"
+                ],
+                [
+                    "LEADERSHIP",
+                    "  Led 2-tier team of 200+ students to execute 100+ events ft. 200+ national & international artists   Collaborated with 3 departments to rope in sponsorship worth ₹ 1.3M+ & 6 major personalities"
+                ],
+                [
+                    "INSTITUTE STUDENT  MENTOR [Jul ’23 – Present]",
+                    "Selected among 140 out of 380+ applicants via a rigorous procedure involving SoP, peer reviews, and interview   Ensuring smooth shift of 12 freshers providing guidance on academic, extra-curricular and personal growth   Received extensive training on 6 essential mentorship skills from a certified CBT-REBT therapist and trainer"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "KEY PROJECTS": {
+        "text": [
+            "Identifying correlation b/w stocks using data on traded option prices| Prof. Vineet Virmani | IIM Ahmedabad",
+            "Application of machine learning analyzing passcode strength | Course Project | Prof. Amuthan Ramabathiran",
+            "•",
+            "Scrutinized 10k+ commonly used encryption keywords to determine difficulty of cracking using brute force",
+            "•",
+            "Designed a python-based classifier to determine input password as feasible/unfeasible on statistical analysis",
+            "Understanding patterns and impacts of mergers & acquisitions across markets| Angel Broking | Finsearch"
+        ],
+        "bullets": [
+            "• Exploring relations implied volatility & strike price for 10 major stocks traded in NSE using python-based model",
+            "• Analyzing relationships between prices of 30+ stocks by employing Greeks and the pricing of traded options",
+            "• Evaluated 5 impacts of mergers, acquisitions on bond & stock market to correlate them with current markets",
+            "• Synthesized and analyzed patterns of mergers & acquisitions by scrutinizing 8 case studies & research papers"
+        ],
+        "tables": [],
+        "pictures": []
+    },
+    "EXTRACURRICULAR ACTIVITIES": {
+        "text": [
+            "ACCENTURE",
+            "BUSINESS ANALYST [Jun '23 – Jul '23]"
+        ],
+        "bullets": [],
+        "tables": [
+            [
+                [
+                    "SPEAKING ARTS",
+                    "  1\r\nst place extempore drama competition (1.4k+ students)   3\r\nrd position extempore speaking contest (2k+ students)   5\r\nth position inter-hostel stand-up comedy contest    Best debater award: school contest 240+ students"
+                ],
+                [
+                    "  Part of quizzing contingent at Inter IIT Cultural Meet 5.0 head at IIT Madras, 3 rd  place literary arts genre    Secured 2\r\nnd place in 4 student-team, multi-round citywide quiz by Nehru Science Centre (800+ participants)",
+                    "QUIZZING"
+                ],
+                [
+                    "  Pursuing a course on Financial Markets remotely offered by Yale University | Instructor: Prof. Robert J. Shiller   Trained professionally for 1 year in Water Polo under the National Sports Organization (NSO) at IIT Bombay",
+                    "MISCELLANEOUS"
+                ],
+                [
+                    "  Initiated beach clean-up campaign in Mahim launched by Sanya Malhotra & collected 200+ kg of waste    Collaborated with 5 NGOs to promote sustainability by giving saplings to 200+ judges and 100+ winners in MI’22",
+                    "SOCIAL WORK"
+                ],
+                [
+                    "TECHNICAL",
+                    " Programming: C++, Python, HTML, CSS, JavaScript |  Software: MS Office, Canva, Blender, Matlab, AWS"
+                ]
+            ]
+        ],
+        "pictures": []
+    },
+    "SILVERNEEDLE VENTURES": {
+        "text": [
+            "[Aug ’23 - Present]",
+            "MCAFFEINE [Feb '23 – Mar '23]"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "STOCK OPTION CORRELATION": {
+        "text": [
+            "[Aug ’23 – Present]"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    },
+    "KRAKEN PASSWORD ANALYSIS": {
+        "text": [
+            "[Jan ’22 – Jun ’22]",
+            "Impacts of M&A [Jun '21 – Aug '21]"
+        ],
+        "bullets": [],
+        "tables": [],
+        "pictures": []
+    }
+}
