@@ -1,0 +1,51 @@
+TEXT_1
+|
+
+TEXT_2
+200100015 B.Tech. Gender: Male DOB: 06/04/2002
+
+TEXT_3
+[May '23-Jun '23] Awarded Letter of Recommendation from Product Manager of the project for exemplary performance and analytical skills
+
+BULLETS_1
+Explored Generative Al and researched over 60 ChatGPT Plugins, and documented their use cases within sports domain Created 20+ seed data pairs including natural language text, metadata, & corresponding SQL output for training purposes Engineered prompts and utilized OpenAl's GPT-3.5-Turbo model to generate seed data based on input prompt and data Worked on an LLaMA-based framework for effortless conversion of complex Natural Language queries into SQL queries
+
+TEXT_4
+[May '22-Jul '22] Collected Reliance and ICICI Bank data from Yahoo Finance to build a machine learning model that predicts stock market prices
+
+BULLETS_2
+Implemented Augmented Dickey Fuller test to check stationarity of the data and resolved it using first-order differencing Visualized predicted & real stock prices using ARIMA and LSTM, neural network-based model using 30 days look-back period
+
+TEXT_5
+Worked in a team of 5 to develop a content-based movie recommendation system by leveraging the TMDB 5000 [Sep '22-Nov '22] movies dataset
+
+BULLETS_3
+Employed various NLP techniques like tokenization, stop words removal, and lemmatization to enhance model performance Utilized scikitlearn's TF-IDF Vectorizer and implemented cosine similarity to deliver personalized movie recommendations
+
+TEXT_6
+Trained the model on Kaggle dataset with more than 0.4 million entries to predict the price of bulldozers
+
+BULLETS_4
+Applied the Random Forest Regressor model and achieved an initial R Squared score of 74% on the final predicted values Elevated the R Squared score further to 91% by adeptly implementing hyperparameter tuning using RandomizedSearchCV
+
+TEXT_7
+[Feb '23-Apr '23] Spearheaded a team of 3 to analyze the current operational 3 Mumbai metro lines and proposed optimized stations along the lines Computer Vision | MATHS AND PHYSICS CLUB | IIT BOMBAY [May '22-Jul '22] Reading project as a part of the Summer of Science program, consisting of exhaustive research and report documentation
+
+BULLETS_5
+Accounted for factors like traveling distance and regional population, creating a distance matrix with over 1000 entries Optimized station allocations by formulating and solving the intricate Linear Programming model using AMPL software Delved into important ML concepts like Linear Regression, Classification, SVMs, Decision Trees, and Ensemble Learning Designed, trained, and achieved 98.2% accuracy in handwritten digit recognition using a CNN model on the MNIST dataset
+
+TEXT_8
+[May '22-Mar '23] Selected as a part of an 11-member team based on ethical assessments, peer reviews, and rigorous interview process
+
+BULLETS_6
+Oversaw creative graphics and skillfully aided in management of 12+ events annually with a budget of 0.3million or more Coordinated with the chief editors and witnessed a 100% y-o-y increase in the follower count on MEA's Instagram handle
+
+TEXT_9
+[Mar '22-Jun '22]
+
+BULLETS_7
+Guided more than 15 students during lab sessions, facilitating issue resolution and clarifying students' doubts effectively Leveraged AutoCAD proficiency in delivering tailored solutions to student lab problems, catering to more than 160 students
+
+TEXT_10
+[Jun '22-Jul '22]
+
